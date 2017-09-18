@@ -1,9 +1,5 @@
-using StockControl02.Class;
-using StockControl02.DAO;
-using System;
-using System.Configuration;
-using System.Data.SqlClient;
-using System.Windows.Forms;
+
+
 
 namespace *project name*
 {
